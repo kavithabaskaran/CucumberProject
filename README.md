@@ -5,20 +5,21 @@ Author: Kavitha
 
 ### Framework used
 
-- Mavenaven
+- Maven
 - Selenium
-- BDD Cucumber
+- Cucumber BDD framework
 - Page Object Model
-- Java TestNG
+- TestNG
+- Java
 
 ---------------------------------------------------
 ### How to run the test
 
 Prerequisite: The following software required to be installed in your system
 
-- java 1.8
-- maven 3.6.2
-- chromedriver
+- Java 1.8
+- Maven 3.6.2
+- Chromedriver
 
 ### Project set up
 
