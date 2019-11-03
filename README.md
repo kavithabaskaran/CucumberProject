@@ -17,15 +17,14 @@ Author: Kavitha
 Prerequisite: The following software required to be installed in your system
 
 - java 1.8
-- maven 3
+- maven 3.6.2
 - chromedriver
 
 ### Project set up
 
 IDE - Intellij
-- Import project as Maven project.
+- Import project as Maven project
 - Run as Cucumber tests
-
 
 ### Test execution
 mvn clean install
